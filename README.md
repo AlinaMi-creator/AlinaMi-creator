@@ -5,7 +5,7 @@ Thanks for visiting and I'd love to connect!
 
 - 🔭 I’m currently working in finance <a href="https://systeme.ru/" target="blank">Systeme Electric</a>
 
-- 🌱 I’m currently Working on HouseComparison App
+- 🌱 I’m currently Working on LesHouses - house comparison App
 
 - 🤝 I’m available for freelancing.
 
