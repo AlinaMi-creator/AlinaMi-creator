@@ -1,2 +1,2 @@
-# Hi
-Profile ReadME! Join my community)
+# Hi I'm Alina 👋
+Welcome to my profile! Join my community)
