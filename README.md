@@ -8,3 +8,7 @@ Thanks for visiting and I'd love to connect!
 - 🌱 I’m currently Working on HouseComparison App
 
 - 🤝 I’m available for freelancing.
+
+### Social media profiles
+<a href="https://www.facebook.com/abutchenko"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alinabutchenko/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn profile" height="30" width="40" /></a>
