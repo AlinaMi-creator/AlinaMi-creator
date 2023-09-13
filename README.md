@@ -3,7 +3,7 @@ Welcome to my profile!
 
 Thanks for visiting and I'd love to connect!
 
-- 🔭 I’m currently working in finance <a href="https://systeme.ru/" target="blank">Systeme Electric</a>
+- 🔭 I’m currently working in finance <a href="https://lenta.com/" target="blank">Lenta</a>
 
 - 🌱 I’m currently Working on LesHouses - house comparison App
 
